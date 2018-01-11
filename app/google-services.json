@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "299894362897",
+    "firebase_url": "https://implementtagmanager.firebaseio.com",
+    "project_id": "implementtagmanager",
+    "storage_bucket": "implementtagmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299894362897:android:f35819f587456068",
+        "android_client_info": {
+          "package_name": "com.example.juanpurata.implementtagmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299894362897-gggtkbn2cnptk2d9eghnq9nta3jttt4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt2QgLYliICrY7ExW-yu5ZaoLFute7nWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299894362897:android:5f3e60a5e374763f",
+        "android_client_info": {
+          "package_name": "com.example.juanpurata.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299894362897-gggtkbn2cnptk2d9eghnq9nta3jttt4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt2QgLYliICrY7ExW-yu5ZaoLFute7nWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
